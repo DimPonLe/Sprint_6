@@ -1,0 +1,23 @@
+# игнорирую все файлы с расширением .pyc
+*.pyc
+
+# игнорирую весь каталог .pytest_cache
+.pytest_cache\
+
+# игнорирую весь каталог __pycache__
+__pycache__
+
+# игнорирую весь каталог .pytest_cache
+.pytest_cache
+
+# игнорирую весь каталог .venv
+.venv
+
+# игнорирую весь каталог __pycache__ в папке locators
+locators/__pycache__
+
+# игнорирую весь каталог __pycache__ в папке pages
+pages/__pycache__
+
+# игнорирую весь каталог __pycache__ в папке tests
+tests/__pycache__
